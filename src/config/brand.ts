@@ -1,0 +1,35 @@
+export const brand = {
+  name: 'African Peninsula',
+  tagline: 'Where the Bluff Meets the Indian Ocean',
+  taglineShort: "Durban's Best-Kept Secret",
+  phone: '+27607563836',
+  phoneDisplay: '+27 60 756 3836',
+  whatsapp: '27607563836',
+  email: 'info@afpen.co.za',
+  address: '599 Marine Drive, Brighton Beach, Bluff, Durban 4052',
+  addressShort: 'Bluff, Durban',
+  coords: { lat: -29.92794, lng: 31.014232 },
+  mapEmbed: 'https://maps.google.com/maps?q=-29.92794,31.014232&z=15&output=embed',
+  checkIn: '14:00',
+  checkOut: '10:00',
+  hours: 'Daily 06:30 – 21:30',
+  hoursRestaurant: 'Mon – Sun  06:30 – 21:30',
+  rooms: 13,
+  rating: 4.2,
+  reviews: 410,
+
+  colors: {
+    primary:    '#0C2D4E',
+    accent:     '#D4813A',
+    background: '#FAF6EF',
+    foreground: '#1A1A2E',
+    secondary:  '#E8F4F8',
+    wa:         '#25D366',
+  },
+
+  social: {
+    instagram: 'https://instagram.com/africanpeninsuladurban',
+    facebook:  'https://facebook.com/african.peninsula',
+    tiktok:    'https://tiktok.com/@africanpeninsularestaurant',
+  },
+}
